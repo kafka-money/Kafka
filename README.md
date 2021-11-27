@@ -78,7 +78,7 @@ Effectively, KAF is a DEX platform token which incorporates tax that creates cle
 
 
 ## Why build on Findora?  
-Findora offers a few key advantages:
+_Findora offers a few key advantages:_
 
 ### Blazingly fast & Minimal Txn Fee 
 Kafka leverages the efficiency of the Findora EVM layer to achieve transactions magnitudes faster than Ethereum and gas fees which are a fraction of the cost (0.00021FRA/txn). This is not only limited to FRC-20 (ERC-20 equivalent tokens on the Findora EVM) native on Findora. Findora’s “Rialto” liquidity bridge interoperates with other ecosystems in 4 directions: Findora<->BSC; Findora<->Ethereum. Users can migrate their liquidity over to Findora with the Rialto bridge to farm yield while benefiting from Findora’s cheaper and faster infrastructure.
