@@ -68,7 +68,7 @@ KAF features a unique deflationary economy design in which, at the KAF token iss
 Effectively, KAF is a DEX platform token which incorporates tax that creates clear deflation for its every on-chain movement. 
 
 
-## Why build on Findora? 
+## Why build on Findora?  
 Findora offers a few key advantages:
 
 ### Blazingly fast & Minimal Txn Fee 
