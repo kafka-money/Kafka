@@ -15,15 +15,15 @@ Kafka leverages the efficiency of the Findora EVM layer to achieve transactions 
 
 
 ## Use KAFKA.MONEY Today
-### SWAP: 
+### swap
 Securely swap between FRC-20 assets with extremely low slippage and minimal fees, and a twist of privacy.
 
-### POOL: 
+### pool
 Earn yield from transaction fees and liquidity incentives.
 
-### EARN: 
+### earn
 Stake LP tokens and KAF tokens to earn extra rewards. 
 
-### GOVERNANCE: 
+### governance
 Participate in decentralized governance and decide the path for the future of financial services using the KAF governance token.
 
