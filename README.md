@@ -1,4 +1,4 @@
-# KAFKA.MONEY 🐞 _
+# KAFKA.MONEY 🐞 
 _Money, democratized, autonomous, humanized._
 
 _Kafka is a next generation AMM DEX that utilizes zero-knowledge proofs to drive cross-chain, privacy-preserving yield. Secured by Findora._
