@@ -1,9 +1,10 @@
-# KAFKA.MONEY 🐞 
-Kafka is the next generation AMM DEX utilizing zero-knowledge proofs to drive cross-chain, privacy preserving yield. Secured by Findora. 
+# KAFKA.MONEY 🐞 _
+_Money, democratized, autonomous, humanized._
+_Kafka is a next generation AMM DEX utilizing zero-knowledge proofs to drive cross-chain, privacy-preserving yield. Secured by Findora._
 
-Kafka is an automated market maker (AMM) DEX empowered by the Findora blockchain to enable lightning-fast trades, minimal transaction fees, as well as privacy-preserving features and front-running resistance empowered by Finodra’s cutting-edge cryptography library. Kafka is non-custodial, allowing users to trade in a trustlessly, peer-to-peer manner. 
+Kafka is an automated market maker (AMM) DEX empowered by the Findora blockchain to enable lightning-fast trades, minimal transaction fees, as well as privacy-preserving features including front-running resistancy (to be implemented in the next upgrade). Kafka is non-custodial, allowing users to trade in a trustlessly, peer-to-peer manner. 
 
-Built on the principles of usability and privacy, Kafka.money provides a foundation for the open accessible financial system of the future. Our primary focus is to protect our users from value extracting players by focusing on privacy empowered by Findora’s privacy preserving ledger. Inspired by Findora’s vision, we have long committed to the ideals of permissionless access, security, and immutability, all indespensable components for a future where anyone in the world can access financial services without fear of discrimination or counterparty risk.
+Built on the principles of true decentralization and privacy, Kafka.money provides a foundation for the open accessible financial system of the future. Our primary focus is to protect our users from value extracting players by focusing on privacy empowered by Findora’s privacy preserving ledger. Inspired by Findora’s vision, we have long committed to the ideals of permissionless access, security, and immutability, all indespensable components for a future where anyone in the world can access financial services without fear of discrimination or counterparty risk.
 
 ![twitter header](https://user-images.githubusercontent.com/94890208/143664775-3fe9f931-c34d-476b-a444-f1742d716200.png)
 
