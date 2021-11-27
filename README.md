@@ -19,6 +19,9 @@ Using precompiled contract APIs that access the Bulletproofs and other Zero-know
 Kafka leverages the efficiency of the Findora EVM layer to achieve transactions magnitudes of times faster than Ethereum with gas fees at a fraction of the cost. This is not only limited to FRC-20 tokens native on Findora. “Rialto” liquidity bridge interoperates with BSC and Ethereum. Users can migrate liquidity over to Findora with the Rialto bridge for higher yields to benefit from Findora’s cheaper and faster infrastructure.
 
 
+ 
+
+
 ## Use KAFKA.MONEY Today
 ### swap
 Securely swap between FRC-20 assets with extremely low slippage and minimal fees, and a twist of privacy.
@@ -82,3 +85,5 @@ Leveraging Findora open-source cryptographic library of zero-knowledge proofs, m
 
 ### Yield Stacking & Ecosystem Support
 Kafka's journey started as a grant recipient of Findora’s 100M ecosystem funds, which has committed 20% of FRA total supply to support the growth of projects in its ecosystem including KAFKA. As one of the first DEXes launched on Findora, KAFKA can be seen as a building block of Findora’s DeFi ecosystem and is eligible for an allocation of Findora’s Ecosystem Fund; also, Kafka has secured partnerships with other ecosystem projects, cross chain and native on Findora, to help users better stack yield and maximize efficiency of liquidity usage. 
+
+![image](https://user-images.githubusercontent.com/94890208/143664910-9b7e40aa-ae2c-4ecd-a217-2037b80d416b.png)
