@@ -74,9 +74,9 @@ Findora offers a few key advantages:
 ### Blazingly fast & Minimal Txn Fee 
 Kafka leverages the efficiency of the Findora EVM layer to achieve transactions magnitudes faster than Ethereum and gas fees which are a fraction of the cost (0.00021FRA/txn). This is not only limited to FRC-20 (ERC-20 equivalent tokens on the Findora EVM) native on Findora. Findora’s “Rialto” liquidity bridge interoperates with other ecosystems in 4 directions: Findora<->BSC; Findora<->Ethereum. Users can migrate their liquidity over to Findora with the Rialto bridge to farm yield while benefiting from Findora’s cheaper and faster infrastructure.
 
-### Privacy-preserving & Front-running Resistance: 
+### Privacy-preserving & Front-running Resistance
 Leveraging Findora open-source cryptographic library of zero-knowledge proofs, multi-party computation, and related privacy systems, Findora’s evm compatibility marks a major milestone towards introducing privacy for EVM smart contracts. In the near future, we will build various privacy features for our DEX based on Findora blockchain’s unique privacy support in their planned v0.4.x release. Using precompile contract APIs that can access the Bulletproofs and other Zero-knowledge Proofs protocols in Findora’s Zei library, inputs (trading amount and asset type of an order) to a smart contract txn will be encrypted thus protecting users from front-running attacks and bring anonymity to a new level not enabled by other public blockchains without enclave setups. Kafka provides fair trading for an AMM DEX without sacrificing transparency or performance.
 
 
-### Yield Stacking & Ecosystem Support: 
+### Yield Stacking & Ecosystem Support
 Kafka's journey started as a grant recipient of Findora’s 100M ecosystem funds, which has committed 20% of FRA total supply to support the growth of projects in its ecosystem including KAFKA. As one of the first DEXes launched on Findora, KAFKA can be seen as a building block of Findora’s DeFi ecosystem and is eligible for an allocation of Findora’s Ecosystem Fund; also, Kafka has secured partnerships with other ecosystem projects, cross chain and native on Findora, to help users better stack yield and maximize efficiency of liquidity usage. 
