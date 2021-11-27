@@ -36,7 +36,7 @@ Stake LP tokens and KAF tokens to earn extra rewards.
 Participate in decentralized governance and decide the path for the future of financial services using the KAF governance token.
 
 
-![image](https://user-images.githubusercontent.com/94890208/143664953-5e3588ab-59f9-4510-929e-996e32a9fb57.png)
+![image](https://user-images.githubusercontent.com/94890208/143665025-9ec643b2-fda9-4deb-b8aa-ca5751438725.png)
 
 
 ## KAF Tokenomics 💰
