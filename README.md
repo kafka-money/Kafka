@@ -1,6 +1,9 @@
 # KAFKA.money 
-Kafka is the next generation AMM DEX that utilizes zero-knowledge proofs to drive cross-chain, privacy preserving yield. 
-Secured by Findora. 
+Kafka is the next generation AMM DEX that utilizes zero-knowledge proofs to drive cross-chain, privacy preserving yield. Secured by Findora. 
+
+Kafka is an automated market maker (AMM) DEX empowered by the Findora blockchain to enable lightning-fast trades, minimal transaction fees, as well as privacy-preserving features and front-running resistance empowered by Finodra’s cutting-edge cryptography library. Kafka is non-custodial, allowing users to trade in a trustlessly, peer-to-peer manner. 
+
+Built on the principles of usability and privacy, Kafka.money provides a foundation for the open accessible financial system of the future. Our primary focus is to protect our users from value extracting players by focusing on privacy empowered by Findora’s privacy preserving ledger. Inspired by Findora’s vision, we have long committed to the ideals of permissionless access, security, and immutability, all indespensable components for a future where anyone in the world can access financial services without fear of discrimination or counterparty risk.
 
 
 ## About KAFKA.MONEY
@@ -64,3 +67,16 @@ KAF features a unique deflationary economy design in which, at the KAF token iss
 
 Effectively, KAF is a DEX platform token which incorporates tax that creates clear deflation for its every on-chain movement. 
 
+
+## Why build on Findora? 
+Findora offers a few key advantages:
+
+### Blazingly fast & Minimal Txn Fee 
+Kafka leverages the efficiency of the Findora EVM layer to achieve transactions magnitudes faster than Ethereum and gas fees which are a fraction of the cost (0.00021FRA/txn). This is not only limited to FRC-20 (ERC-20 equivalent tokens on the Findora EVM) native on Findora. Findora’s “Rialto” liquidity bridge interoperates with other ecosystems in 4 directions: Findora<->BSC; Findora<->Ethereum. Users can migrate their liquidity over to Findora with the Rialto bridge to farm yield while benefiting from Findora’s cheaper and faster infrastructure.
+
+### Privacy-preserving & Front-running Resistance: 
+Leveraging Findora open-source cryptographic library of zero-knowledge proofs, multi-party computation, and related privacy systems, Findora’s evm compatibility marks a major milestone towards introducing privacy for EVM smart contracts. In the near future, we will build various privacy features for our DEX based on Findora blockchain’s unique privacy support in their planned v0.4.x release. Using precompile contract APIs that can access the Bulletproofs and other Zero-knowledge Proofs protocols in Findora’s Zei library, inputs (trading amount and asset type of an order) to a smart contract txn will be encrypted thus protecting users from front-running attacks and bring anonymity to a new level not enabled by other public blockchains without enclave setups. Kafka provides fair trading for an AMM DEX without sacrificing transparency or performance.
+
+
+### Yield Stacking & Ecosystem Support: 
+Kafka's journey started as a grant recipient of Findora’s 100M ecosystem funds, which has committed 20% of FRA total supply to support the growth of projects in its ecosystem including KAFKA. As one of the first DEXes launched on Findora, KAFKA can be seen as a building block of Findora’s DeFi ecosystem and is eligible for an allocation of Findora’s Ecosystem Fund; also, Kafka has secured partnerships with other ecosystem projects, cross chain and native on Findora, to help users better stack yield and maximize efficiency of liquidity usage. 
