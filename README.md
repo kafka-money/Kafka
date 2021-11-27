@@ -1,7 +1,7 @@
 # KAFKA.MONEY 🐞 _
 _Money, democratized, autonomous, humanized._
 
-_Kafka is a next generation AMM DEX utilizing zero-knowledge proofs to drive cross-chain, privacy-preserving yield. Secured by Findora._
+_Kafka is a next generation AMM DEX that utilizes zero-knowledge proofs to drive cross-chain, privacy-preserving yield. Secured by Findora._
 
 Kafka is an automated market maker (AMM) DEX empowered by the Findora blockchain to enable lightning-fast trades, minimal transaction fees, as well as privacy-preserving features including front-running resistancy (to be implemented in the next upgrade). Kafka is non-custodial, allowing users to trade in a trustlessly, peer-to-peer manner. 
 
