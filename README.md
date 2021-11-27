@@ -90,4 +90,4 @@ Leveraging Findora open-source cryptographic library of zero-knowledge proofs, m
 ### Yield Stacking & Ecosystem Support
 Kafka's journey started as a grant recipient of Findora’s 100M ecosystem funds, which has committed 20% of FRA total supply to support the growth of projects in its ecosystem including KAFKA. As one of the first DEXes launched on Findora, KAFKA can be seen as a building block of Findora’s DeFi ecosystem and is eligible for an allocation of Findora’s Ecosystem Fund; also, Kafka has secured partnerships with other ecosystem projects, cross chain and native on Findora, to help users better stack yield and maximize efficiency of liquidity usage. 
 
-![image](https://user-images.githubusercontent.com/94890208/143664910-9b7e40aa-ae2c-4ecd-a217-2037b80d416b.png)
+< img src="https://user-images.githubusercontent.com/94890208/143664910-9b7e40aa-ae2c-4ecd-a217-2037b80d416b.png" width="24" >
